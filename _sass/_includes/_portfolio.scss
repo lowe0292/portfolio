@@ -55,7 +55,7 @@
   @media only screen and (max-width: 1023px) {
     opacity: 1;
     visibility: visible;
-    background: transparent;
+    background: rgba($overlay-background-color, 0.6);
     text-shadow: 1px 1px 2px black;
 
     .portfolio-item__title {

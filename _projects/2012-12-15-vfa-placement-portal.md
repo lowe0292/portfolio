@@ -3,7 +3,7 @@ title: "VFA Placement Portal"
 subtitle: "Internal tool for matching startups with new grads"
 date: 2018-06-30 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
-featured_image: "/images/demo/demo-landscape.jpg"
+featured_image: "/images/vfa-2012-map.png"
 ---
 
 ![](/images/demo/demo-landscape.jpg)

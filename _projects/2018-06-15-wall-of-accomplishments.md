@@ -3,7 +3,7 @@ title: "Wall of Accomplishments"
 subtitle: "Digital sticky notes to celebrate the small wins"
 date: 2018-06-30 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
-featured_image: "/images/demo/demo-landscape-2.jpg"
+featured_image: "/images/sticky-notes.jpg"
 ---
 
 ![](/images/demo/demo-landscape.jpg)

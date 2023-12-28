@@ -3,22 +3,29 @@ layout: default
 ---
 
 <section class="intro">
-
-	<div class="wrap">
-
-		<h1>{{ page.title }}</h1>
-		<p>{{ page.subtitle }}</p>
-
-	</div>
-
+  <div class="wrap">
+    <h1>{{ page.title }}</h1>
+    <p>{{ page.subtitle }}</p>
+  </div>
 </section>
 
 <section class="single">
+  <div class="wrap">{{ page.content }}</div>
+</section>
 
-	<div class="wrap">
+<section class="single links">
+  <div class="wrap split">
+    {% if page.previous %}
+    <a href="{{ page.previous.url }}">
+      <i class="fas fa-angle-double-left" aria-hidden="true"></i>
+      Previous <span class="project-title">({{page.previous.title}})</span>
+    </a>
+    {% endif %} {% if page.next %}
+    <a href="{{ page.next.url }}"
+      >Next <span class="project-title">({{page.next.title}})</span>
 
-		{{ page.content }}
-
-	</div>
-
+      <i class="fas fa-angle-double-right" aria-hidden="true"></i>
+    </a>
+    {% endif %}
+  </div>
 </section>

@@ -1,8 +1,8 @@
 ---
-title: Howdy
-subtitle: For as long as I can remember, I've loved to build things. What started with Legos and Knex has grown into over a decade of experience building & launching software products.
-description: Index is a minimal, fixed sidebar grid portfolio Jekyll theme.
-featured_image: /images/demo/demo-landscape.jpg
+title: About
+subtitle: I'm Scott, and for as long as I can remember I've loved to build things. What started with Legos and Knex has grown into over a decade of experience building & launching software products. I have been the technical cofounder of four startups and an early engineering employee at several more. My sweet spot is full-stack web development, and my recent work has been focused on Generative AI.
+description: Stuff Scott Built - About
+featured_image: /images/scott-hiking.jpg
 ---
 
 ![](/images/scott-hiking.jpg)

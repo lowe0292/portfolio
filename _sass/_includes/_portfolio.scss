@@ -7,9 +7,23 @@
 .portfolio {
   margin-top: 0;
   padding: $grid-spacing/2;
+
+  .projects-list {
+    a {
+      color: black;
+    }
+
+    @include mq(tabletl) {
+      display: none;
+    }
+  }
 }
 
 .portfolio-wrap {
+  display: none;
+  @include mq(tabletl) {
+    display: block;
+  }
 }
 
 .portfolio-item {

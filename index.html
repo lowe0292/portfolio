@@ -6,6 +6,19 @@ featured_image: /images/scott-hiking.jpg
 ---
 
 <section class="portfolio">
+  <div class="projects-list">
+    <ul class="menu__list">
+      {% for project in site.projects reversed %}
+      <li class="menu__list__item">
+        <a
+          href="{{ project.url | relative_url }}"
+          class="menu__list__item__link"
+          >{{ project.title }}</a
+        >
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
   <div class="content-wrap portfolio-wrap">
     {% for project in site.projects reversed %}
 

@@ -10,7 +10,7 @@ featured_image: "/images/1697929446953.jpeg"
 
 ## Description
 
-AutoCommit AI integrated with Jira & GitHub to provide reports and answer questions about software development progress.
+AutoCommit AI was an LLM-powered app that integrated with Jira & GitHub to provide reports and answer questions about software development progress.
 
 ## Screenshots
 

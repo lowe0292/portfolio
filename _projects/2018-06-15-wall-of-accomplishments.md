@@ -6,8 +6,6 @@ description: A tool for remote team to give digital shoutouts.
 featured_image: "/images/sticky-notes.jpg"
 ---
 
-![](/images/wall-of-accomplishments.jpeg)
-
 ## Description
 
 What started as a literal wall with sticky notes at [Castle]({% link _projects/2014-06-15-castle.md %}) later took on a life of its own as a tool for remote teams to give digital shoutouts.

@@ -1,6 +1,6 @@
 ---
 title: "AutoCommit AI"
-subtitle: "Conversational interface for software development progress"
+subtitle: "Chat interface for software development progress"
 date: 2023-12-15 00:00:00
 description: AutoCommit AI integrated with Jira & GitHub to provide reports and answer questions about software development progress.
 featured_image: "/images/1697929446953.jpeg"
